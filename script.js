@@ -6,6 +6,8 @@ num = 15;
 
 num+=7;
 
+num--;
+
 num = "This is not a number";
 
 let blank
