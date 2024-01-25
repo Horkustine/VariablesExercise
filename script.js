@@ -1,0 +1,14 @@
+// const
+
+let num = 20;
+
+num = 15;
+
+num+=7;
+
+num = "This is not a number";
+
+let blank
+console.log(blank);
+blank = null;
+
